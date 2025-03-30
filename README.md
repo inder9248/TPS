@@ -1,8 +1,8 @@
 # TPS
 
 Phase 1 - Vorbereitung
-Engine auswählen	Unity (empfohlen) oder Unreal Engine installieren
 
+Engine auswählen	Unity (empfohlen) oder Unreal Engine installieren /
 Projekt erstellen	Neues 3D-Projekt anlegen
 
 Asset-Bibliothek	Kostenlos im Asset Store: Character Models, Guns, Sounds, etc.
