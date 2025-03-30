@@ -1,17 +1,15 @@
 # TPS
 
-Phase 1 - Vorbereitung
-
-Engine auswählen	Unity (empfohlen) oder Unreal Engine installieren /
-Projekt erstellen	Neues 3D-Projekt anlegen
-
+Phase 1 - Vorbereitung  
+Engine auswählen	Unity (empfohlen) oder Unreal Engine installieren  
+Projekt erstellen	Neues 3D-Projekt anlegen  
 Asset-Bibliothek	Kostenlos im Asset Store: Character Models, Guns, Sounds, etc.
 
-Phase 2 - Spieler-Controller
-Third Person Controller	Template aus Unity Asset Store oder selbst bauen
-Kamera	Third-Person Kamera, folgt dem Spieler
-Bewegung	WASD + Maus zum Drehen
-Animationen	Laufen, Springen, Idle (Standard-Animationen verwenden)
+Phase 2 - Spieler-Controller  
+Third Person Controller	Template aus Unity Asset Store oder selbst bauen  
+Kamera	Third-Person Kamera, folgt dem Spieler  
+Bewegung	WASD + Maus zum Drehen  
+Animationen	Laufen, Springen, Idle (Standard-Animationen verwenden)  
 
 Phase 3 - Shooter-Mechanik
 Waffe	Simple 3D-Model (Cube = Platzhalter) an der Hand des Spielers
